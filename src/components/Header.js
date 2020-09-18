@@ -1,8 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import Carousel from "react-bootstrap/Carousel";
 import carousel1 from "./image/carousel1.jpg";
 import carousel2 from "./image/carousel2.jpg";
+
 const Header = () => {
+  const [navOpen, setNavOpen] = useState(false);
   return (
     <div>
       <Carousel>
@@ -33,10 +35,11 @@ const Header = () => {
           type="button"
           data-toggle="collapse"
           data-target="#navbarCollapse"
+          onClick={() => setNavOpen(!navOpen)}
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse">
+        <div className={navOpen ? !navOpen : "collapse navbar-collapse"}>
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <a className="nav-link">Home</a>
