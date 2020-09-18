@@ -5,6 +5,7 @@ import carousel2 from "./image/carousel2.jpg";
 
 const Header = () => {
   const [navOpen, setNavOpen] = useState(false);
+
   return (
     <div>
       <Carousel>
