@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8b17d144.chunk.css",
+    "main.js": "./static/js/main.c628498f.chunk.js",
+    "main.js.map": "./static/js/main.c628498f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5fbd3476.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5fbd3476.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "./static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f2ef32f3.chunk.js": "./static/js/2.f2ef32f3.chunk.js",
+    "static/js/2.f2ef32f3.chunk.js.map": "./static/js/2.f2ef32f3.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.45bb164e514c92dee21f387cd6f36eaa.js": "./precache-manifest.45bb164e514c92dee21f387cd6f36eaa.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "./static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8b17d144.chunk.css.map": "./static/css/main.8b17d144.chunk.css.map",
+    "static/js/2.f2ef32f3.chunk.js.LICENSE.txt": "./static/js/2.f2ef32f3.chunk.js.LICENSE.txt",
+    "static/media/carousel1.jpg": "./static/media/carousel1.40d59b51.jpg",
+    "static/media/carousel2.jpg": "./static/media/carousel2.241e48bd.jpg",
+    "static/media/challenge.jpg": "./static/media/challenge.be49e877.jpg",
+    "static/media/open.jpg": "./static/media/open.9ea23cd0.jpg",
+    "static/media/sign.jpg": "./static/media/sign.7c5f0fce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fbd3476.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f2ef32f3.chunk.js",
+    "static/css/main.8b17d144.chunk.css",
+    "static/js/main.c628498f.chunk.js"
+  ]
+}
